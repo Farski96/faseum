@@ -5,7 +5,7 @@ Este repositório contém o projeto desenvolvido na primeira fase da pós-gradua
 
 ## Sobre o projeto
 
-O desafio consistiu em desenvolver um modelo preditivo de regressão para estimar os custos médicos individuais cobrados por planos de saúde, utilizando uma base de dados pública do Kaggle. A base original foi aumentada para melhorar a performance do modelo, passando de aproximadamente 1.300 para 6.338 registros.
+O desafio consistiu em desenvolver um modelo preditivo de regressão para estimar os custos médicos individuais cobrados por planos de saúde, utilizando uma base de dados pública do Kaggle. A base original foi aumentada para melhorar a performance do modelo, passando de aproximadamente 1.300(insurance.py) registros para 6.338 registros(insurance_expandido.csv).
 
 ## Participantes
 
