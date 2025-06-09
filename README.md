@@ -15,16 +15,5 @@ O desafio consistiu em desenvolver um modelo preditivo de regressão para estima
 - Jorge Faleiros  
 - Lucca Sartori
 
-## Estrutura do repositório
-
-- `data/` - Dados brutos e processados  
-- `notebooks/` - Notebooks com experimentos e análises  
-- `src/` - Código-fonte para pré-processamento e treino do modelo  
-- `requirements.txt` - Bibliotecas necessárias  
 
 ## Como usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/fase-01-ia-desenvolvedores.git
-   cd fase-01-ia-desenvolvedores
