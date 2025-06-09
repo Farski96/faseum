@@ -16,4 +16,3 @@ O desafio consistiu em desenvolver um modelo preditivo de regressão para estima
 - Lucca Sartori
 
 
-## Como usar
